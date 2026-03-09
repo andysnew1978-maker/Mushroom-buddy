@@ -1,0 +1,5 @@
+{
+  "name": "MycoVision: AI Mushroom Hunter",
+  "description": "Real-time mushroom detection using AI. Point your camera at the forest floor and let MycoVision spot hidden fungi for you.",
+  "requestFramePermissions": ["camera"]
+}
